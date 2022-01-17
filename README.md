@@ -9,20 +9,20 @@ pages.
   Reset My Password - Button  
   Return to Login/Signup - Hyperlink  
   ### Page 2:
-  Password Reset - Title
+  Password Reset - Title  
 A Password reset link is generated as per your request
 and sent to your email address. Please check your
-mailbox. - Normal Text
-Return to Login/Signup - Hyperlink  
+mailbox. - Normal Text  
+Return to Login/Signup - Hyperlink    
   ### Page 3:
-  Password Reset - Title
-New Password - Edit Field
-Confirm Password - Edit Field
-Reset Password - Button 
+  Password Reset - Title  
+New Password - Edit Field  
+Confirm Password - Edit Field  
+Reset Password - Button   
   ### Page 4:
-  Password Reset - Title
-Password Reset Done successfully - Text
-Return to Login/Signup - Hyperlink  
+  Password Reset - Title  
+Password Reset Done successfully - Text  
+Return to Login/Signup - Hyperlink    
 ### Template given:
 ![image](https://user-images.githubusercontent.com/59216813/149805664-07ecdd63-2e1d-4cf4-8148-4a903031e088.png)
 
