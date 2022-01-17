@@ -40,3 +40,4 @@ pages.
 ![image](https://user-images.githubusercontent.com/59216813/149806031-ac740bb1-06f7-4710-82f9-e98ad5defaee.png)
 
 Github pages hosting:
+https://pooja2899.github.io/Bazarside_Assignment/
