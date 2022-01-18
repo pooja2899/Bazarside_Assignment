@@ -92,3 +92,14 @@ section .wave.wave2{
     opacity: 1;
     bottom: 0;
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    div.container {
+      width: 80%;
+    }
+
+    .new{
+        width: 40%;
+    }
+  }
